@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ConnexionPage.qml</file>
+        <file>MainPage.qml</file>
+        <file>InscriptionPage.qml</file>
+        <file>CompteView.qml</file>
+        <file>ComptePage.qml</file>
+        <file>AddGroupeView.qml</file>
+        <file>CagnotteView.qml</file>
+        <file>CreationGroupeView.qml</file>
+    </qresource>
+</RCC>

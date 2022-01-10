@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ConnexionPage.qml</file>
+        <file>MainPage.qml</file>
+        <file>InscriptionPage.qml</file>
+        <file>CompteView.qml</file>
+        <file>ComptePage.qml</file>
+        <file>AddGroupeView.qml</file>
+        <file>CagnotteView.qml</file>
+        <file>CreationGroupeView.qml</file>
+        <file>DepenseView.qml</file>
+        <file>InfoGroupeView.qml</file>
+        <file>InviteUtilisateurGroupeView.qml</file>
+        <file>AddDepenseView.qml</file>
+        <file>images/userIcon.png</file>
+        <file>images/userIconWhite.png</file>
+        <file>images/userAdd.svg</file>
+        <file>CagnottePage.qml</file>
+    </qresource>
+</RCC>
