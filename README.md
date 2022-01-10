@@ -59,6 +59,13 @@ La liste des fonctionnalités avec les auteurs est la suivantes (Cette liste se 
 |    12 |                       Déconnexion | Florian
 |    13 |                      Clore groupe | Florian
 
+### Screenshots
 
+![AppScreenshot1](https://github.com/Florian-Math/ShareCount/blob/master/screenshots/Capture1.PNG)
 
+![AppScreenshot2](https://github.com/Florian-Math/ShareCount/blob/master/screenshots/Capture2.PNG)
 
+![AppScreenshot3](https://github.com/Florian-Math/ShareCount/blob/master/screenshots/Capture3.PNG)
+
+## Infos
+Ce projet a été développé dans le cadre d'un projet de [la Faculté des Sciences et Technologies de Nancy](https://fst.univ-lorraine.fr)
